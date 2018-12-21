@@ -3,4 +3,3 @@
 - read data
 - menampilkan halaman utama
 - insert data
-- hapus
